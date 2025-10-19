@@ -1,0 +1,8 @@
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
+('holster', 'Holster', 1, 0, 1),
+('latex_gloves', 'Guantes de Latex', 1, 0, 1),
+('radio', 'Walkie Talkie', 1, 0, 1),
+('flashlight', 'Linterna', 1, 0, 1),
+('ammo_pouch', 'Cartuchera', 1, 0, 1),
+('handcuffs', 'Esposas', 1, 0, 1),
+('microphone', 'Micrófono', 1, 0, 1);
